@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/CSS-5A5A5A?logo=css3&logoColor=01A3D8" />
 </div>
 
-## [Mira el Proyecto Aqui](https://github.com/jenolo16/En-crip-tex-one.git)
+## [Mira el Proyecto Aqui](https://jenolo16.github.io/En-crip-tex-one/)
 
 ##Descripción
 
